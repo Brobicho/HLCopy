@@ -14,7 +14,7 @@
 
 ## 📋 About
 
-HLCopy is a professional-grade automated copy trading bot for the Hyperliquid decentralized exchange. It monitors specified vault addresses and automatically replicates their trading positions to your account, enabling you to follow successful traders without manual intervention.
+HLCopy is an automated copy trading bot for the Hyperliquid decentralized exchange. It monitors specified vault addresses and automatically replicates their trading positions to your account, enabling you to follow successful traders without manual intervention.
 
 ### ✨ Features
 
