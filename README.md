@@ -1,12 +1,12 @@
 <div align="center">
 
-# HLCopy - Hyperliquid Copy Trading Bot
+# HLCopy - Hyperliquid Copytrading Bot
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge) 
 ![Status](https://img.shields.io/badge/status-operational-brightgreen?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-*Automated copy trading bot for Hyperliquid DEX - Monitor vault positions and replicate trades in real-time*
+*Automated copytrading bot for Hyperliquid DEX - Monitor vault positions and replicate trades in real-time*
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 📋 About
 
-HLCopy is an automated copy trading bot for the Hyperliquid decentralized exchange. It monitors specified vault addresses and automatically replicates their trading positions to your account, enabling you to follow successful traders without manual intervention.
+HLCopy is an automated copytrading bot for the Hyperliquid decentralized exchange. It monitors specified vault addresses and automatically replicates their trading positions to your account, enabling you to follow successful traders without manual intervention.
 
 ### ✨ Features
 
