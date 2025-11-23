@@ -41,8 +41,8 @@ HLCopy is a professional-grade automated copy trading bot for the Hyperliquid de
 
 ```bash
 # Clone the repository
-git clone https://github.com/Brobicho/hlcopy.git
-cd hlcopy
+git clone https://github.com/Brobicho/HLCopy.git
+cd HLCopy
 
 # Run automated setup script
 ./setup.sh
@@ -57,8 +57,8 @@ nano copy_vaults.txt   # Add vault addresses to copy
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Brobicho/hlcopy.git
-cd hlcopy
+git clone https://github.com/Brobicho/HLCopy.git
+cd HLCopy
 ```
 
 #### Step 2: Install Dependencies
@@ -102,12 +102,12 @@ python open.py
 nohup python open.py > bot.log 2>&1 &
 
 # Using screen
-screen -S hlcopy
+screen -S HLCopy
 python open.py
 # Press Ctrl+A, then D to detach
 
 # Using tmux
-tmux new -s hlcopy
+tmux new -s HLCopy
 python open.py
 # Press Ctrl+B, then D to detach
 ```
